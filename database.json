@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "taskName": "Coding practice",
+      "dateTime": "2022-07-07T09:30",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "taskName": "Lunch with friends",
+      "dateTime": "2022-07-10T13:15",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "taskName": "Grocery shopping",
+      "dateTime": "2022-07-08T19:52",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
